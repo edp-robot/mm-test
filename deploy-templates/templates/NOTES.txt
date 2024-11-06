@@ -1,0 +1,1 @@
+1. Application mm-test has been successfully deployed!!
